@@ -1,6 +1,7 @@
 // Step 1: Import React
 import * as React from 'react'
 import Layout from '../pages/layout'
+import { Link, graphql } from 'gatsby'
 import { StaticImage } from 'gatsby-plugin-image'
 
 
